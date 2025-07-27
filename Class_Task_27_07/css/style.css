@@ -20,14 +20,30 @@ form h2 {
 }
 
 .form-group label {
-    flex-basis: 100px;
+    flex-basis: 150px;
     text-align: right;
     margin-right: 10px;
-    width: 200px;
+    width: 350px;
 }
 
 .form-group input {
     width: 270px;
+} 
+
+#don-am input {
+    width: 10px;
+}
+#don-am label {
+    height: 100px;
+}
+
+.small input{
+    width: 40px;
+}
+
+textarea {
+    width: 280px;
+    height: 50px;
 }
 
 .red_star {
