@@ -1,0 +1,35 @@
+body {
+    background-color:rgb(255, 255, 255)   
+}
+
+form {
+    background-color:rgb(174, 184, 183);
+    margin: 0px 10px 10px 10px;
+    padding: 10px;
+}
+
+form h2 {
+    color: red;
+    padding-left: 30px;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-left: 180px;
+}
+
+.form-group label {
+    flex-basis: 100px;
+    text-align: right;
+    margin-right: 10px;
+    width: 200px;
+}
+
+.form-group input {
+    width: 270px;
+}
+
+.red_star {
+    color:red;
+}
